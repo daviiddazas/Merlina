@@ -1,0 +1,6 @@
+{
+  "name": "Wednesday: Presentación Transmedia",
+  "description": "Presentación web interactiva con estética de Netflix sobre la narrativa transmedia de Wednesday y Los Locos Addams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
